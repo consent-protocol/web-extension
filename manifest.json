@@ -1,0 +1,12 @@
+{
+    "name": "Consent Protocol",
+    "description": "Decentralised platform for managing your own data while getting paid to share",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
